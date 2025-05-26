@@ -1,12 +1,12 @@
-<!DOCTYPE htlm>
-<html lang="fr">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport"content="width=device=width,initial-scale=1">
-<title>ma premiere page web</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <meta http-equiv="X-UA-Compatible" content="ie=edge"> <title>Document</title>
+<!-- en-tete du document -->
 </head>
 <body>
-<h1>mamadou</h1>
-<p>diouf</p>
-<body>
-</html>	
+<!-- corps du document -->
+</body>
+</html>
+Il
